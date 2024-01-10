@@ -1,4 +1,6 @@
-'''DESCRIPTION: Buddy pairs You know what divisors of a number are.
+'''
+https://www.codewars.com/kata/59ccf051dcc4050f7800008f
+DESCRIPTION: Buddy pairs You know what divisors of a number are.
 	The divisors of a positive integer n are said to be proper when
 	you consider only the divisors other than n itself. In the
 	following description, divisors will mean proper divisors. For

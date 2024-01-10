@@ -1,4 +1,6 @@
-'''DESCRIPTION: A child is playing with a ball on the nth floor of a
+'''
+https://www.codewars.com/kata/5544c7a5cb454edb3c000047
+DESCRIPTION: A child is playing with a ball on the nth floor of a
 	tall building. The height of this floor above ground level, h, is
 	known.
 
@@ -17,7 +19,8 @@ Three conditions must be met for a valid experiment: Float parameter
 	return a positive integer, otherwise return -1.
 
 Note: The ball can only be seen if the height of the rebounding ball
-	is strictly greater than the window parameter.'''
+	is strictly greater than the window parameter.
+'''
 
 import math
 
